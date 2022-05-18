@@ -1,5 +1,4 @@
-# Little Better Privacy
-
+# Little Better Privacy for [Mantis Bugtracker](https://www.mantisbt.org)
 <hr>
 
 ### Description
@@ -10,7 +9,7 @@ This little plugin excludes robots and adds no referrer policy by changing the h
 <meta name="referrer" content="no-referrer">
 ```
 
-Note that note that the "robots"-tag is just a friendly advice to webcrawlers and the
+Note that the "robots"-tag is just a friendly advice to webcrawlers and the
 "referrer"-tag is only supported by modern browsers.
 so if you want to be sure, add a htaccess protection to your Mantis installation
 <hr>
