@@ -41,7 +41,7 @@ class LittleBetterPrivacyPlugin extends MantisPlugin {
 
     # This method will the meta tag in the header
     function custom_meta() {
-        return "\t<meta name=\"referrer\" content=\"no-referrer\">\n";
+        return "\t<meta name=\"referrer\" content=\"no-referrer\" />\n";
     }
 }
 
